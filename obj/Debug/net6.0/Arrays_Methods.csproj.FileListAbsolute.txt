@@ -1,0 +1,15 @@
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\bin\Debug\net6.0\Arrays_Methods.exe
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\bin\Debug\net6.0\Arrays_Methods.deps.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\bin\Debug\net6.0\Arrays_Methods.runtimeconfig.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\bin\Debug\net6.0\Arrays_Methods.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\bin\Debug\net6.0\Arrays_Methods.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.csproj.AssemblyReference.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.AssemblyInfoInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.AssemblyInfo.cs
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\refint\Arrays_Methods.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\Arrays_Methods.genruntimeconfig.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\Arrays_Methods\obj\Debug\net6.0\ref\Arrays_Methods.dll
